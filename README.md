@@ -4,6 +4,10 @@
 
 Svelte component library using [Yup](https://www.npmjs.com/package/yup) for form validation.
 
+An update has been made for the [svelte-yup](https://github.com/KamyarLajani/svelte-yup) project sveltekit.
+
+
+
 ### Installation
 
 ```sh
