@@ -1,4 +1,4 @@
-# svelte-yup
+# sveltekit-yup
 ![npm](https://img.shields.io/npm/v/sveltekit-yup) ![NPM](https://img.shields.io/npm/l/sveltekit-yup) ![GitHub top language](https://img.shields.io/github/languages/top/etuncay/sveltekit-yup) ![npm](https://img.shields.io/npm/dm/sveltekit-yup)
 
 
