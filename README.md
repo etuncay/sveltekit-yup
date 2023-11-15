@@ -55,7 +55,7 @@ Example:
 ```html
 <script>
 ...
-import {YupMessage, isInvalid} from 'svelte-yup';
+import {YupMessage, isInvalid} from 'sveltekit-yup';
 ...
 $: invalid = (name)=>{
     if(submitted){
@@ -79,7 +79,7 @@ $: invalid = (name)=>{
 ### All messages in one place
 Example below to put all messages in one place by `YupAllMessages` component.
 ```js
-import {YupAllMessages} from 'svelte-yup';
+import {YupAllMessages} from 'sveltekit-yup';
 ```
 ```html
 <YupAllMessages />
