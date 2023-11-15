@@ -1,6 +1,26 @@
 {
 	"name": "sveltekit-yup",
-	"version": "0.0.5",
+	"version": "0.0.6",
+	"license": "MIT",
+	"homepage": "https://github.com/etuncay/sveltekit-yup",
+	"description": "Svelte component library using Yup for form validation.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/etuncay/sveltekit-yup"
+	},
+	"bugs": {
+		"url": "https://github.com/etuncay/sveltekit-yup/issues"
+	},
+	"author": {
+		"name": "Emrullah TUNCAY",
+		"url": "https://github.com/etuncay"
+	},
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"yup",
+		"sveltekit-yup"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
