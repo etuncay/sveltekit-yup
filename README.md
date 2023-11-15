@@ -22,7 +22,7 @@ $ npm i yup
 ```html
 <script>
     import * as yup from 'yup';
-    import {YupForm, YupMessage} from 'svelte-yup';
+    import {YupForm, YupMessage} from 'sveltekit-yup';
     let schema = yup.object().shape({
         name: yup.string().required().max(30).label("Name"),
         email: yup.string().required().email().label("Email address"),
